@@ -4,7 +4,7 @@ const createAboutCard = (hbookName, compiler, paragraph, image, links) => `
     <div class="flex flex-col justify-start p-4 lg:p-16 lg:w-1/2 sm:mb-0 mb-16">
         <h2 class="text-xl font-medium title-font text-gray-900 dark:text-white">${hbookName}</h2>
         <h2 class="text-lg font-normal title-font text-gray-900 dark:text-white mt-5"><b>Compiled by:</b> ${compiler}</h2> <br>
-        <img src="/${image}" alt="${image}" class="lg:hidden">
+        <img src="${image}" alt="${image}" class="lg:hidden">
         <p class="text-base leading-relaxed mt-2 text-black dark:text-gray-200">${paragraph}</p>
         <a href="${links}" target="_blank" class="text-black dark:text-gray-300 border-2 border-black dark:border-white inline-flex bg-gray-300 dark:bg-gray-900 text-center justify-center p-1 rounded-xl items-center mt-3">Learn more about&nbsp <b>${compiler}</b>
         </a>
