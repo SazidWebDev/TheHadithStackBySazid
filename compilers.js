@@ -35,15 +35,15 @@ let compiler = ["Muhammad ibn Isma'il al-Bukhari",
     "Saahibul Hadith Imam Ul Adham Ahmad ibn Hanbal al-Dhuhli",
     "Muhammad b. al-Hajj Nuh b. Nijati b. Adam al-Ishqudri al-Albani al-Arnauti"];
 let image = [
-    "sahih-bukhari.png",
-    "sahih-muslim.png",
-    "al-tirmidhi.png",
-    "abu-dawood.png",
-    "ibn-e-majah.png",
-    "sunan-nasai.png",
-    "mishkat.png",
-    "musnad-ahmad.png",
-    "al-silsila-sahiha.png"
+    "https://i.postimg.cc/tgLj2X34/sahih-bukhari.jpg",
+    "https://i.postimg.cc/FsZhNX4T/sahih-muslim.jpg",
+    "https://i.postimg.cc/tg1b31Vc/al-tirmidhi.png",
+    "https://i.postimg.cc/3RvKTy8G/abu-dawood.jpg",
+    "https://i.postimg.cc/G2G1fZKJ/ibn-e-majah.jpg",
+    "https://i.postimg.cc/15Pyk5Lg/sunan-nasai.jpg",
+    "https://i.postimg.cc/MH0qnhjK/mishkat.jpg",
+    "https://i.postimg.cc/ZnzJKTnM/musnad-ahmad.jpg",
+    "https://i.postimg.cc/nhhpLSVp/al-silsila-sahiha.jpg"
 ];
 let links = [
     "https://en.wikipedia.org/wiki/Muhammad_al-Bukhari",
