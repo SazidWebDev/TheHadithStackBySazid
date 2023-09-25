@@ -10,7 +10,7 @@ const createAboutCard = (hbookName, compiler, paragraph, image, links) => `
         </a>
     </div>
     <div class="flex justify-end p-4 pt-16 md:w-1/2">
-        <img src="/images/${image}" alt="${image}" class="hidden lg:block h-1/2 pointer-events-none" dragable="false">
+        <img src="${image}" alt="${image}" class="hidden lg:block h-1/2 pointer-events-none" dragable="false">
     </div>
 </div>
 `;
