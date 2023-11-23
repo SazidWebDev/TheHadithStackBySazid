@@ -35,7 +35,7 @@ For inquiries regarding commercial use or code licensing, please contact at [sub
 ## Acknowledgments
 
 - Special thanks to [Hadith API] for providing the Hadith data.
-- [WIKIPEDIA](https://en.wikipedia.org) for providing data for Hadith books.
+- [Wikipedia](https://en.wikipedia.org) for providing data for Hadith books.
 
 Made with ❤️ by [Muhammed Sazid Ul Bari].
 
