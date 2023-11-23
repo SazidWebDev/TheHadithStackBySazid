@@ -30,7 +30,7 @@ For details on the API used in this project, refer to [API Documentation Link].
 
 This website, TheHadithStack, is provided for free for personal and non-commercial use only. Users are not permitted to copy, modify, or distribute the source code without explicit written permission from the project owner.
 
-For inquiries regarding commercial use or code licensing, please contact [Your Contact Information](mailto:subenglishschool@gmail.com).
+For inquiries regarding commercial use or code licensing, please contact at [subenglishschool@gmail.com](mailto:subenglishschool@gmail.com).
 
 ## Acknowledgments
 
