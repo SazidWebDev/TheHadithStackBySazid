@@ -15,11 +15,6 @@ TheHadithStack is a project aimed at providing a comprehensive collection of Had
 - **Frontend:** HTML, CSS, JavaScript, Tailwind CSS
 - **API:** [Hadith API]
 
-## Getting Started
-
-1. Clone the repository.
-2. Open `index.html` in a web browser.
-
 ## Usage
 
 - Browse Hadiths by category.
@@ -44,8 +39,8 @@ For inquiries regarding commercial use or code licensing, please contact [Your C
 
 Made with ❤️ by [Muhammed Sazid Ul Bari].
 
-[API Documentation Link]: # https://www.hadithapi.com/ // Add the link to your API documentation.
+[API Documentation Link]: https://www.hadithapi.com/
 [MIT License]: LICENSE.md
 [LICENSE.md]: LICENSE.md
-[Hadith API]: #  https://www.hadithapi.com/
-[Muhammed Sazid Ul Bari]: # https://www.upwork.com/freelancers/~017e4802fc1f00ad2b // Add your name or username.
+[Hadith API]: https://www.hadithapi.com/
+[Muhammed Sazid Ul Bari]: https://www.upwork.com/freelancers/~017e4802fc1f00ad2b
